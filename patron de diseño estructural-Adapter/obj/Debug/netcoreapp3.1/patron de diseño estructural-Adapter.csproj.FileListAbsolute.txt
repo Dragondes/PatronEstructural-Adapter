@@ -1,0 +1,11 @@
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\bin\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.exe
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\bin\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.deps.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\bin\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.runtimeconfig.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\bin\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.runtimeconfig.dev.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\bin\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\bin\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.pdb
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\obj\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.csprojAssemblyReference.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\obj\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.AssemblyInfoInputs.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\obj\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.AssemblyInfo.cs
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\obj\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño estructural-Adapter\obj\Debug\netcoreapp3.1\patron de diseño estructural-Adapter.pdb
